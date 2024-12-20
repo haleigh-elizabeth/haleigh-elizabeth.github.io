@@ -28,7 +28,8 @@ Arch Linux Documentation
    * Under Network confiuration:
        * Press enter under network manager
    * Optional: Change the timezone, but this won't break the machine if youu dont change it, ask me how I know
-* **Step 5:** Install!
+* **Step 5:** Install!<img width="641" alt="arch_installing" src="https://github.com/user-attachments/assets/0831b214-51f6-440b-ab26-bfb7e3dd202b" />
+
    * Finally!! What we have been waiting for! Click enter on "install" and then enter on the "yes" button
    * This might take 5 years but that is ok
 * **Step 6:** Click yes on chroot
