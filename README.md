@@ -7,6 +7,8 @@ Arch Linux Documentation
    * Click the Arch iso that we just downloaded
    * Boot up the Arch VM!
 * **Step 3:** Click the regular install on the welcome page (Arch Linux Install Medium (x86_64 BIOS)
+* <img width="433" alt="Arch_welcome_pg" src="https://github.com/user-attachments/assets/f47a019d-048e-4662-ab92-b147e6ef9b2f" />
+
 * **Step 4:** Use the Arch install script to make our lives easier
    * Run: $${\color{blue}archinstall}$$
    * Make any changes here you would like, I'm just going to change mirroring and rootpassword'
@@ -28,7 +30,8 @@ Arch Linux Documentation
    * Under Network confiuration:
        * Press enter under network manager
    * Optional: Change the timezone, but this won't break the machine if youu dont change it, ask me how I know
-* **Step 5:** Install!<img width="641" alt="arch_installing" src="https://github.com/user-attachments/assets/0831b214-51f6-440b-ab26-bfb7e3dd202b" />
+* **Step 5:** Install
+<img width="641" alt="arch_installing" src="https://github.com/user-attachments/assets/0831b214-51f6-440b-ab26-bfb7e3dd202b" />
 
    * Finally!! What we have been waiting for! Click enter on "install" and then enter on the "yes" button
    * This might take 5 years but that is ok
