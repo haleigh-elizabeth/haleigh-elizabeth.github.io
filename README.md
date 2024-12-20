@@ -7,7 +7,7 @@ Arch Linux Documentation
    * Click the Arch iso that we just downloaded
    * Boot up the Arch VM!
 * **Step 3:** Click the regular install on the welcome page (Arch Linux Install Medium (x86_64 BIOS)
-* <img width="433" alt="Arch_welcome_pg" src="https://github.com/user-attachments/assets/f47a019d-048e-4662-ab92-b147e6ef9b2f" />
+<img width="433" alt="Arch_welcome_pg" src="https://github.com/user-attachments/assets/f47a019d-048e-4662-ab92-b147e6ef9b2f" />
 
 * **Step 4:** Use the Arch install script to make our lives easier
    * Run: $${\color{blue}archinstall}$$
