@@ -1,6 +1,7 @@
 # haleigh-elizabeth.github.io
-Arch Linux Documentation
+## Arch Linux Documentation
 ---
+* Here is a link to the tutorial I used incase you are more a visual person! https://www.youtube.com/watch?v=8YE1LlTxfMQ
 * **Step 1:** Download the iso: https://mirror.arizona.edu/archlinux/iso/2024.12.01/
 * **Step 2:** Open Virtual Box
    * Click new
